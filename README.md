@@ -1,6 +1,4 @@
-# Training my first Tensorflow model
-
-## Project 1 - Predicting insurance cost based on some user data
+# Predicting insurance cost based on some user data
 
 
 ```python
